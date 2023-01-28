@@ -8,6 +8,10 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=vanpersietyo.vanpersietyo&style=flat-square&color=0088cc)
 
+
+[![Adhitya's GitHub stats](https://github-readme-stats.vercel.app/api?username=vanpersietyo&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true)
+
+[![Adhitya's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanpersietyo&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 ### Languages and Tools:
 
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cpp"></code>
