@@ -32,12 +32,6 @@
   <p align="center">
     <img alt="Telegram" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanpersietyo&langs_count=5" />
   </p>
-      
-
-  <p align="center">
-    <img alt="Telegram" src="https://github-readme-stats.vercel.app/api?username=vanpersietyo&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  </p>
- 
   
   <h3 align="center"><a href="https://stackshare.io/vanpersietyo">My Tech Stack</a></h3>
 
