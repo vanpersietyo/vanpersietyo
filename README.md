@@ -7,9 +7,6 @@
       <img src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat" />
     </a>
     <a href="https://github.com/vanpersietyo">
-      <img alt="Visitor" src="https://visitor-badge.glitch.me/badge?page_id=vanpersietyo.vanpersietyo&style=flat-square&color=0088cc" />
-    </a>
-    <a href="https://github.com/vanpersietyo">
       <img alt="Last Commits" src="https://img.shields.io/github/last-commit/vanpersietyo/vanpersietyo" />
     </a>
     <a href="www.linkedin.com/in/vanpersietyo">
