@@ -27,7 +27,7 @@
 </p>
 
   <p align="center">
-    <img alt="Telegram" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanpersietyo&langs_count=5" />
+   ![image](https://github.com/user-attachments/assets/ff13aaea-4344-4f1b-8e35-d511504cc6d3)
   </p>
   
   <h3 align="center"><a href="https://stackshare.io/vanpersietyo">My Tech Stack</a></h3>
