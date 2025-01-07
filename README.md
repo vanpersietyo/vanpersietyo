@@ -27,7 +27,8 @@
 </p>
 
   <p align="center">
-   ![image](https://github.com/user-attachments/assets/ff13aaea-4344-4f1b-8e35-d511504cc6d3)
+      <img alt="Code Stats" src="https://github-production-user-asset-6210df.s3.amazonaws.com/18361038/400617956-ff13aaea-4344-4f1b-8e35-d511504cc6d3.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250107%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250107T025927Z&X-Amz-Expires=300&X-Amz-Signature=a3ded5d1a1b1fff032b1a4677a0f9b8aa508837ee685e4c2a88951f3361d6c2a&X-Amz-SignedHeaders=host" />
+  
   </p>
   
   <h3 align="center"><a href="https://stackshare.io/vanpersietyo">My Tech Stack</a></h3>
