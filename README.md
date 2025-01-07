@@ -7,7 +7,7 @@
       <img src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat" />
     </a>
     <a href="https://github.com/vanpersietyo">
-      <img alt="Last Commits" src="https://img.shields.io/github/last-commit/vanpersietyo/vanpersietyo" />
+      <img alt="Code Time" src="https://wakatime.com/badge/user/1fab0357-dc7e-4a46-8d13-8b76aee07ede.svg" />
     </a>
     <a href="www.linkedin.com/in/vanpersietyo">
       <img alt="Linkedin" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" />
