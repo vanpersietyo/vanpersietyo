@@ -96,14 +96,6 @@
 
 ---
 
-## 📊 Code Activity
-
-<p align="center">
-  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/18361038/400617956-ff13aaea-4344-4f1b-8e35-d511504cc6d3.png" />
-</p>
-
----
-
 ## 🤝 Let’s Build
 
 - 💼 Open to **Senior / Staff Backend**, **Fintech**, **Contract** roles
