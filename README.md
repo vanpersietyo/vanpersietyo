@@ -39,7 +39,7 @@
 | [XMedic](https://xmedic.id) | Clinic and hospital information system (SIMRS) with electronic medical records, connected to SATUSEHAT. |
 | [Bomber](https://bomber.app) | Multi-tenant nightlife reservation platform for venues across Asia, with facial recognition ID checks. |
 | [Golfer](https://topgolfer.app) | Golf course booking, payment and membership platform with a mobile app and owner web apps. |
-| [NuhaPOS](https://nuhapos.com) | Point of sale product I have developed since 2018, now Ruang POS. |
+| [NuhaPOS](https://nuhapos.com) | Point of sale product I co-founded in 2018 and build with one other engineer, now Ruang POS. |
 
 More projects, the experience timeline and the full stack are on [adhitya.ai.id](https://adhitya.ai.id).
 
