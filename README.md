@@ -26,7 +26,7 @@
 - **Backend and APIs.** Laravel, Go and NestJS services, REST APIs, queues, multi-tenant SaaS and microservices.
 - **Web and mobile apps.** Vue, Nuxt, React and Next.js front ends, Astro sites, offline-first PWAs, Android with Capacitor and React Native.
 - **Business systems.** POS, ERP, warehouse and fulfillment, HR with face-recognition attendance, hospital information systems.
-- **AI and automation.** n8n workflow automation, LLM and RAG integrations, AI agents, business process automation.
+- **AI and automation.** n8n workflow automation, LLM and RAG integrations, AI agents with LangChain and LangGraph, business process automation.
 - **Data, cloud and consulting.** PostgreSQL and MySQL design, Docker and CI/CD, Cloudflare, automated testing, IT consulting.
 - **Developer tooling.** Internal dev panels in Bun and Vue, git worktree workflows, AI-assisted development.
 
@@ -61,7 +61,7 @@ More projects, the experience timeline and the full stack are on [adhitya.ai.id]
 | Mobile | Capacitor, React Native |
 | Data | PostgreSQL, MySQL, SQL Server, Redis, RabbitMQ, BullMQ |
 | Infra | Docker, GitHub Actions, GCP, AWS, Cloudflare, Vercel |
-| AI and automation | LLM APIs (Claude), RAG, AI agents and MCP, n8n, webhooks and API integrations |
+| AI and automation | LLMs (Claude, OpenAI), RAG, AI agents, LangChain, LangGraph, MCP, n8n, webhooks and API integrations |
 | Testing | Pest, PHPUnit, Playwright, Vitest, Go test |
 
 ## Work with me
