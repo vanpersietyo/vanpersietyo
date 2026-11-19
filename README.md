@@ -24,7 +24,7 @@
 ## What I do
 
 - **Backend and APIs.** Laravel, Go and NestJS services, REST APIs, queues, multi-tenant SaaS and microservices.
-- **Web and mobile apps.** Vue, Nuxt, React and Next.js front ends, Astro sites, offline-first PWAs, Android with Capacitor and React Native.
+- **Web and mobile apps.** Vue, Nuxt, React and Next.js front ends, Astro sites, offline-first PWAs, Android and iOS with Flutter, Capacitor and React Native.
 - **Business systems.** POS, ERP, warehouse and fulfillment, HR with face-recognition attendance, hospital information systems.
 - **AI and automation.** n8n workflow automation, LLM and RAG integrations, AI agents with LangChain and LangGraph, business process automation.
 - **Data, cloud and consulting.** PostgreSQL and MySQL design, Docker and CI/CD, Cloudflare, automated testing, IT consulting.
@@ -55,14 +55,14 @@ More projects, the experience timeline and the full stack are on [adhitya.ai.id]
 
 | | |
 | --- | --- |
-| Languages | PHP, Go, Java, TypeScript, JavaScript, SQL, Python |
+| Languages | PHP, Go, Java, TypeScript, JavaScript, Dart, SQL, Python |
 | Backend | Laravel, NestJS, Go Fiber and Gin, CodeIgniter, FastAPI |
 | Front end | Vue 3, Nuxt, React, Next.js, Astro, Tailwind CSS |
-| Mobile | Capacitor, React Native |
+| Mobile | Flutter, Capacitor, React Native, push notifications, TestFlight, App Store and Google Play releases |
 | Data | PostgreSQL, MySQL, SQL Server, Redis, RabbitMQ, Kafka, BullMQ |
 | Infra | Docker, GitHub Actions, GCP, AWS, Cloudflare, Vercel |
 | AI and automation | LLMs (Claude, OpenAI, Gemini API), RAG, AI agents, LangChain, LangGraph, MCP, n8n, webhooks and API integrations, Jira, Notion and Slack |
-| Testing | Pest, PHPUnit, Playwright, Vitest, Go test |
+| Testing | Pest, PHPUnit, Jest, Playwright, Vitest, Go test, Postman, manual testing, k6, JMeter |
 
 ## Work with me
 
