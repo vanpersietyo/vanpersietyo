@@ -1,104 +1,69 @@
-<h2 align="center">
-  Hey 👋, I'm Adhitya Dwi Prasetyo
-</h2>
+<h2 align="center">Adhitya Dwi Prasetyo</h2>
 
 <p align="center">
-  <b>Senior Backend Engineer · Fintech · ERP · Distributed Systems</b><br/>
-  Laravel · Go · Node.js · System Design · Financial & Transactional Platforms
-</p>
-
-<p align="center">
-  I design and scale <b>high-performance backend systems</b> for fintech, ERP, marketplaces, and government platforms.<br/>
-  8+ years building <b>financial engines, payment systems, and mission-critical APIs</b>.
+  <b>Software and AI Engineer</b><br/>
+  Backend systems, business software, AI agents and automation<br/>
+  Sidoarjo, Indonesia · working remotely worldwide
 </p>
 
 <p align="center">
-  <a href="https://stackshare.io/vanpersietyo">
-    <img src="http://img.shields.io/badge/Tech%20Stack-StackShare-0690fa?style=flat" />
-  </a>
-  <a href="https://github.com/vanpersietyo">
-    <img alt="Code Time" src="https://wakatime.com/badge/user/1fab0357-dc7e-4a46-8d13-8b76aee07ede.svg" />
-  </a>
-  <a href="https://www.linkedin.com/in/vanpersietyo">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Adhitya%20Dwi%20Prasetyo-0e76a8?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://vanpersietyo.my.id">
-    <img alt="Website" src="https://img.shields.io/badge/Portfolio-Website-3b5998?style=flat&logo=google-chrome&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/vanpersietyo">
-    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-@vanpersietyo-00acee?style=flat&logo=twitter&logoColor=white" />
-  </a>
+  Building software since 2016: POS, ERP, warehouse, HR and healthcare systems on Laravel, Go and NestJS backends with Vue or React front ends, plus AI agents and workflow automation.
+</p>
+
+<p align="center">
+  <a href="https://adhitya.ai.id"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-adhitya.ai.id-2563eb?style=flat&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/vanpersietyo"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-vanpersietyo-0e76a8?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:adhitya.dprasetyo@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-adhitya.dprasetyo%40gmail.com-444?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://t.me/vanpersietyo"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-vanpersietyo-26a5e4?style=flat&logo=telegram&logoColor=white" /></a>
+  <a href="https://stackshare.io/vanpersietyo"><img alt="StackShare" src="https://img.shields.io/badge/Tech%20Stack-StackShare-0690fa?style=flat" /></a>
+  <a href="https://github.com/vanpersietyo"><img alt="Code Time" src="https://wakatime.com/badge/user/1fab0357-dc7e-4a46-8d13-8b76aee07ede.svg" /></a>
 </p>
 
 ---
 
-## 🚀 What I Do
+## What I do
 
-- 🧮 **Financial & Transactional Systems**
-  - Accounting, journals, COGS (FIFO / Weighted Avg), tax & revenue flows
-  - Payment gateways, webhooks, deposits, invoices, multi-currency
-- 🏗 **Backend Architecture**
-  - Domain-Driven Design (DDD), Clean Architecture, Modular Monoliths
-  - Async processing (RabbitMQ, queues, Pub/Sub)
-- ⚙️ **Scalable APIs**
-  - High-availability REST & GraphQL APIs
-  - Multi-tenant SaaS platforms
-- 🔐 **Security & Auth**
-  - OAuth2 / JWT, RBAC, SSO, secure integrations
-- 🚢 **Cloud & DevOps**
-  - Docker, CI/CD, AWS, GCP, cloud-native deployments
+- **Backend and APIs.** Laravel, Go and NestJS services, REST APIs, queues, multi-tenant SaaS and microservices.
+- **Web and mobile apps.** Vue, Nuxt, React and Next.js front ends, Astro sites, offline-first PWAs, Android with Capacitor and React Native.
+- **Business systems.** POS, ERP, warehouse and fulfillment, HR with face-recognition attendance, hospital information systems.
+- **AI and automation.** n8n workflow automation, LLM and RAG integrations, AI agents, business process automation.
+- **Data, cloud and consulting.** PostgreSQL and MySQL design, Docker and CI/CD, Cloudflare, automated testing, IT consulting.
+- **Developer tooling.** Internal dev panels in Bun and Vue, git worktree workflows, AI-assisted development.
 
----
+## Selected work
 
-## 🧠 Tech Stack (Focused)
+| Project | What it is |
+| --- | --- |
+| [Ruang POS](https://ruangpos.id) | Offline-first point of sale for cafes, restaurants and shops, with stock ledger, accounting and an online shop. Multi-tenant on one codebase. |
+| [Logspace](https://logspace.id) | Warehouse management and order fulfillment for e-commerce brands, with marketplace order sync and bin-level stock. |
+| [XMedic](https://xmedic.id) | Clinic and hospital information system (SIMRS) with electronic medical records, connected to SATUSEHAT. |
+| [Bomber](https://bomber.app) | Multi-tenant nightlife reservation platform for venues across Asia, with facial recognition ID checks. |
+| [Golfer](https://topgolfer.app) | Golf course booking, payment and membership platform with a mobile app and owner web apps. |
+| [NuhaPOS](https://nuhapos.com) | Point of sale product I have developed since 2018, now Ruang POS. |
 
-### Backend
-<p>
-  <img title="Laravel" height="28" src="https://raw.githubusercontent.com/github/explore/master/topics/laravel/laravel.png"/>
-  <img title="PHP" height="28" src="https://raw.githubusercontent.com/github/explore/master/topics/php/php.png"/>
-  <img title="Go" height="28" src="https://raw.githubusercontent.com/github/explore/master/topics/go/go.png"/>
-  <img title="Node.js" height="28" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png"/>
-  <img title="NestJS" height="28" src="https://raw.githubusercontent.com/github/explore/master/topics/nestjs/nestjs.png"/>
-</p>
+More projects, the experience timeline and the full stack are on [adhitya.ai.id](https://adhitya.ai.id).
 
-### Databases & Messaging
-<p>
-  <img title="MySQL" height="28" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png"/>
-  <img title="PostgreSQL" height="28" src="https://raw.githubusercontent.com/github/explore/master/topics/postgresql/postgresql.png"/>
-  <img title="Redis" height="28" src="https://raw.githubusercontent.com/github/explore/master/topics/redis/redis.png"/>
-  <img title="RabbitMQ" height="28" src="https://raw.githubusercontent.com/github/explore/master/topics/rabbitmq/rabbitmq.png"/>
-</p>
+## Highlights
 
-### Frontend (When Needed)
-<p>
-  <img title="Vue.js" height="28" src="https://raw.githubusercontent.com/github/explore/master/topics/vue/vue.png"/>
-  <img title="React" height="28" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png"/>
-  <img title="Next.js" height="28" src="https://raw.githubusercontent.com/github/explore/master/topics/nextjs/nextjs.png"/>
-</p>
+- Building software since 2016, across POS, ERP, warehouse, HR, healthcare and government systems.
+- Senior Software Engineer at Rexolusi, also leading the backend architecture of its cloud platform.
+- Logspace, a fulfillment platform that handles a very high volume of transactions.
+- Multi-tenant SaaS products, from Ruang POS to Bomber.
+- Remote-first, working across regions and time zones.
 
-### DevOps & Cloud
-<p>
-  <img title="Docker" height="28" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png"/>
-  <img title="Kubernetes" height="28" src="https://raw.githubusercontent.com/github/explore/master/topics/kubernetes/kubernetes.png"/>
-  <img title="AWS" height="28" src="https://raw.githubusercontent.com/github/explore/master/topics/aws/aws.png"/>
-  <img title="GCP" height="28" src="https://raw.githubusercontent.com/github/explore/master/topics/google-cloud/google-cloud.png"/>
-</p>
+## Stack
 
----
+| | |
+| --- | --- |
+| Languages | PHP, Go, TypeScript, JavaScript, SQL, Python |
+| Backend | Laravel, NestJS, Go Fiber and Gin, CodeIgniter, FastAPI |
+| Front end | Vue 3, Nuxt, React, Next.js, Astro, Tailwind CSS |
+| Mobile | Capacitor, React Native |
+| Data | PostgreSQL, MySQL, SQL Server, Redis, RabbitMQ, BullMQ |
+| Infra | Docker, GitHub Actions, GCP, AWS, Cloudflare, Vercel |
+| AI and automation | LLM APIs (Claude), RAG, AI agents and MCP, n8n, webhooks and API integrations |
+| Testing | Pest, PHPUnit, Playwright, Vitest, Go test |
 
-## 🏆 Highlights
+## Work with me
 
-- 🧑‍💻 **8+ years** building production-grade systems
-- 💰 Designed **financial engines** for ERP, fintech, and government platforms
-- 🏢 Led backend architecture for **multi-tenant SaaS** products
-- 📈 Delivered systems handling **high-volume transactions & real-time data**
-- 🌍 Remote-first, experienced working across regions & time zones
-
----
-
-## 🤝 Let’s Build
-
-- 💼 Open to **Senior / Staff Backend**, **Fintech**, **Contract** roles
-- 🌐 Fully remote friendly
-- 📬 Reach me via **LinkedIn or Email**
-
+Open to freelance and full-time backend and AI automation work, remote from Indonesia. Message me on [Telegram](https://t.me/vanpersietyo), [LinkedIn](https://www.linkedin.com/in/vanpersietyo) or [email](mailto:adhitya.dprasetyo@gmail.com).
