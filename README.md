@@ -55,13 +55,13 @@ More projects, the experience timeline and the full stack are on [adhitya.ai.id]
 
 | | |
 | --- | --- |
-| Languages | PHP, Go, TypeScript, JavaScript, SQL, Python |
+| Languages | PHP, Go, Java, TypeScript, JavaScript, SQL, Python |
 | Backend | Laravel, NestJS, Go Fiber and Gin, CodeIgniter, FastAPI |
 | Front end | Vue 3, Nuxt, React, Next.js, Astro, Tailwind CSS |
 | Mobile | Capacitor, React Native |
-| Data | PostgreSQL, MySQL, SQL Server, Redis, RabbitMQ, BullMQ |
+| Data | PostgreSQL, MySQL, SQL Server, Redis, RabbitMQ, Kafka, BullMQ |
 | Infra | Docker, GitHub Actions, GCP, AWS, Cloudflare, Vercel |
-| AI and automation | LLMs (Claude, OpenAI), RAG, AI agents, LangChain, LangGraph, MCP, n8n, webhooks and API integrations |
+| AI and automation | LLMs (Claude, OpenAI, Gemini API), RAG, AI agents, LangChain, LangGraph, MCP, n8n, webhooks and API integrations, Jira, Notion and Slack |
 | Testing | Pest, PHPUnit, Playwright, Vitest, Go test |
 
 ## Work with me
