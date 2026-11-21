@@ -59,9 +59,9 @@ More projects, the experience timeline and the full stack are on [adhitya.ai.id]
 | Backend | Laravel, NestJS, Go Fiber and Gin, CodeIgniter, FastAPI |
 | Front end | Vue 3, Nuxt, React, Next.js, Astro, Tailwind CSS |
 | Mobile | Flutter, Capacitor, React Native, push notifications, TestFlight, App Store and Google Play releases |
-| Data | PostgreSQL, MySQL, SQL Server, Redis, RabbitMQ, Kafka, BullMQ |
+| Data | PostgreSQL, MySQL, MongoDB, SQL Server, Redis, RabbitMQ, Kafka, BullMQ |
 | Infra | Docker, GitHub Actions, GCP, AWS, Cloudflare, Vercel |
-| AI and automation | LLMs (Claude, OpenAI, Gemini API), RAG, AI agents, LangChain, LangGraph, MCP, n8n, webhooks and API integrations, Jira, Notion and Slack |
+| AI and automation | LLMs (Claude, OpenAI, Gemini API), local models with Ollama, RAG, AI agents, LangChain, LangGraph, MCP, n8n, webhooks and API integrations, Jira, Notion and Slack |
 | Testing | Pest, PHPUnit, Jest, Playwright, Vitest, Go test, Postman, manual testing, k6, JMeter |
 
 ## Work with me
