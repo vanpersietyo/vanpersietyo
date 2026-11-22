@@ -55,7 +55,7 @@ More projects, the experience timeline and the full stack are on [adhitya.ai.id]
 
 | | |
 | --- | --- |
-| Languages | PHP, Go, Java, TypeScript, JavaScript, Dart, SQL, Python |
+| Languages | PHP, Go, Java, TypeScript, JavaScript, Dart, SQL, Python, Rust |
 | Backend | Laravel, NestJS, Go Fiber and Gin, CodeIgniter, FastAPI |
 | Front end | Vue 3, Nuxt, React, Next.js, Astro, Tailwind CSS |
 | Mobile | Flutter, Capacitor, React Native, push notifications, TestFlight, App Store and Google Play releases |
